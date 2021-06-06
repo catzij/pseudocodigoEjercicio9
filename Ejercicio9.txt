@@ -1,0 +1,29 @@
+inicio
+
+	var T1;
+	var T2;
+	var cantidad;
+	var suma;
+	var promedio
+
+	mientras T1 !0
+	  mostrar "ingrese la temperatura T1"
+	  leer T1
+	  mostrar "ingrese la temperatura T2"
+	  leet T2
+	  
+	  cantidad+2
+
+	  si T1 y T2 >5 Y T2 y T1 < 15
+	    suma = suma + t1 + t2
+	  fin si
+	
+	fin mientras 
+	
+	promedio = suma / cantidad
+
+	mostrar "el promedio es" +promedio
+fin
+	
+	
+	
